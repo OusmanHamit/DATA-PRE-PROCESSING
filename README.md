@@ -1,5 +1,7 @@
 # Notebook
 
+git clone git@github.com:OusmanHamit/Notebook.git
+
 pip install pandas numpy seaborn missingno
 
 pip install matplotlib
