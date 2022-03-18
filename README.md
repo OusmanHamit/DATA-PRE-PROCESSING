@@ -1,6 +1,6 @@
 # Notebook
 
-git clone git@github.com:OusmanHamit/Notebook.git
+git clone https://github.com/OusmanHamit/Notebook
 
 pip install pandas numpy seaborn missingno
 
