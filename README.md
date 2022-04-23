@@ -1,6 +1,6 @@
 # Notebook
 
-git clone https://github.com/OusmanHamit/Notebook
+git clone https://github.com/OusmanHamit/JUPYTER-NOTEBOOK
 
 pip3 install virtualenv / python -m pip install --user virtualenv
 
